@@ -3,14 +3,15 @@ html {
     background-size:cover;
 }
 
-#test {
-    color: white;
-}
-
 #header {
     background-color: orange;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
+    color: black;
+}
+
+body {
+    color: white;
 }
